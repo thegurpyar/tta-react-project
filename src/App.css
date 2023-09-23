@@ -1,0 +1,26 @@
+
+.container{
+  margin-top: 50px;
+  font-weight: 800;
+}
+
+.container .row{
+  
+  justify-content: center;
+  border: 1px solid black;
+}
+
+.header .row{
+  padding-left: 100px;
+  height: 100px;
+}
+
+.middle .row{
+  padding-left: 100px;
+  height: 300px;
+
+}
+
+.footer .row{
+  height: 150px;
+}
